@@ -37,3 +37,8 @@
   
     
 ![](https://github.com/WilliamL71Oi/TCN_Toolkit/blob/main/TCN_Toolkit_v2.0%20%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95.png)  
+
+
+# 声明：本软件免费使用，仅供技术交流，不得用于违反法律法规的行为，一切后果与本人无关。  
+# 如喜欢本软件，请点个star，多多支持！
+
